@@ -47,8 +47,23 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Teste.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets\Course Library\Animals\Forest" />
+     <Folder Include="Assets\Course Library\Humans" />
+     <Folder Include="Assets\Course Library\_Source_Files" />
+     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
+     <Folder Include="Assets\Course Library\Animals\Dogs" />
+     <Folder Include="Assets\Course Library" />
+     <Folder Include="Assets\Course Library\_Source_Files\FBX" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\Course Library\Animals\Farm" />
+     <Folder Include="Assets\Course Library\_Source_Files\FBX\Materials" />
+     <Folder Include="Assets\Course Library\_Source_Files\Misc" />
+     <Folder Include="Assets\Course Library\Animals" />
+     <Folder Include="Assets\Course Library\_Source_Files\Materials" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Course Library\Food" />
+     <Folder Include="Assets\Course Library\Materials" />
+     <Folder Include="Assets\Course Library\_Source_Files\Textures" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
